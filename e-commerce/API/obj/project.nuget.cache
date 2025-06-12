@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6R+NJ7cRD70=",
+  "dgSpecHash": "vzRnuyH7uZU=",
   "success": true,
-  "projectFilePath": "/Users/furkanozbay/Applications/ .NET 9 ve React ile FullStack E-Ticaret Projesi Geliştirme /react-dotnet-ecommerce/e-commerce/API/API.csproj",
+  "projectFilePath": "/Users/furkanozbay/Applications/ .NET 9 ve React ile FullStack E-Ticaret Projesi Geliştirme /react-dotnet-ecommerce/e-commerce/API/API.csproj",
   "expectedPackageFiles": [
     "/Users/furkanozbay/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/Users/furkanozbay/.nuget/packages/microsoft.aspnetcore.openapi/9.0.3/microsoft.aspnetcore.openapi.9.0.3.nupkg.sha512",

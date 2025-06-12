@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/furkanozbay/Applications/ .NET 9 ve React ile FullStack E-Ticaret Projesi Geliştirme /react-dotnet-ecommerce/e-commerce/API/API.csproj": {}
+    "/Users/furkanozbay/Applications/ .NET 9 ve React ile FullStack E-Ticaret Projesi Geliştirme /react-dotnet-ecommerce/e-commerce/API/API.csproj": {}
   },
   "projects": {
-    "/Users/furkanozbay/Applications/ .NET 9 ve React ile FullStack E-Ticaret Projesi Geliştirme /react-dotnet-ecommerce/e-commerce/API/API.csproj": {
+    "/Users/furkanozbay/Applications/ .NET 9 ve React ile FullStack E-Ticaret Projesi Geliştirme /react-dotnet-ecommerce/e-commerce/API/API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/furkanozbay/Applications/ .NET 9 ve React ile FullStack E-Ticaret Projesi Geliştirme /react-dotnet-ecommerce/e-commerce/API/API.csproj",
+        "projectUniqueName": "/Users/furkanozbay/Applications/ .NET 9 ve React ile FullStack E-Ticaret Projesi Geliştirme /react-dotnet-ecommerce/e-commerce/API/API.csproj",
         "projectName": "API",
-        "projectPath": "/Users/furkanozbay/Applications/ .NET 9 ve React ile FullStack E-Ticaret Projesi Geliştirme /react-dotnet-ecommerce/e-commerce/API/API.csproj",
+        "projectPath": "/Users/furkanozbay/Applications/ .NET 9 ve React ile FullStack E-Ticaret Projesi Geliştirme /react-dotnet-ecommerce/e-commerce/API/API.csproj",
         "packagesPath": "/Users/furkanozbay/.nuget/packages/",
-        "outputPath": "/Users/furkanozbay/Applications/ .NET 9 ve React ile FullStack E-Ticaret Projesi Geliştirme /react-dotnet-ecommerce/e-commerce/API/obj/",
+        "outputPath": "/Users/furkanozbay/Applications/ .NET 9 ve React ile FullStack E-Ticaret Projesi Geliştirme /react-dotnet-ecommerce/e-commerce/API/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/furkanozbay/.nuget/NuGet/NuGet.Config"
