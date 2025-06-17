@@ -34,6 +34,8 @@ if (app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 
+app.UseStaticFiles(); //wwwroot klasörünün içindeki dosyaları kullanabilmek için
+
 app.UseCors(options =>
 {
     options.AllowAnyHeader().AllowAnyMethod().WithOrigins("http://localhost:3000");

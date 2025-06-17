@@ -147,3 +147,4 @@
 /Users/furkanozbay/Applications/ .NET 9 ve React ile FullStack E-Ticaret Projesi Geliştirme /react-dotnet-ecommerce/e-commerce/API/obj/Debug/net9.0/API.csproj.Up2Date
 /Users/furkanozbay/Applications/ .NET 9 ve React ile FullStack E-Ticaret Projesi Geliştirme /react-dotnet-ecommerce/e-commerce/API/obj/Debug/net9.0/API.genruntimeconfig.cache
 /Users/furkanozbay/Applications/ .NET 9 ve React ile FullStack E-Ticaret Projesi Geliştirme /react-dotnet-ecommerce/e-commerce/API/obj/Debug/net9.0/ref/API.dll
+/Users/furkanozbay/Applications/ .NET 9 ve React ile FullStack E-Ticaret Projesi Geliştirme /react-dotnet-ecommerce/e-commerce/API/bin/Debug/net9.0/API.staticwebassets.runtime.json
